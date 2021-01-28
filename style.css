@@ -1,0 +1,15 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+body {
+	margin: auto;
+	max-width: 1050px;
+	justify-content: center;
+	text-align: center;
+}
+canvas {
+	display: block;
+	max-width: 1050px;
+	margin: auto;
+}
